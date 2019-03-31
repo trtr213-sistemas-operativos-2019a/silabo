@@ -41,6 +41,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.
 Todas las tareas serán listadas en el [Calendario del Curso](#calendario).
 
+
 Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https://www.turnitin.com) en los deberes correspondientes y en las fechas indicadas.
 
 ## Peerwise

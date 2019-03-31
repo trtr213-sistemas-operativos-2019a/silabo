@@ -81,7 +81,7 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 
 ### LA ESCUELA POLITÉCNICA NACIONAL
 
-> La tradición y el prestigio de la Politécnica exigen que el comportamiento de sus miembros se encuadre en el respeto mutuo, la honestidad, el apego a la verdad y el compromiso con la institución.
+La tradición y el prestigio de la Politécnica exigen que el comportamiento de sus miembros se encuadre en el respeto mutuo, la honestidad, el apego a la verdad y el compromiso con la institución.
 
 Con tal antecedente, el presente Código de Ética define la norma de conducta de los miembros de la Escuela Politécnica Nacional:
 

@@ -5,6 +5,7 @@
 * **Horario:**  Lunes de 7:00 a 9:00, Viernes de 12:00 a 13:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
 * Pueden revisar el sílabo y colaborar mediante la creación de [issues](https://github.com/EPN-ANP-2017A/silabo/issues)
+
 También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordinar una hora de reunión.
 
 ## Objetivos del Curso

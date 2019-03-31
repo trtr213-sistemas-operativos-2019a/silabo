@@ -1,4 +1,4 @@
-# Sílabo para Sistemas Operativos 1 ESFOT-EPN 2017A
+# Sílabo para Sistemas Operativos (TRTR213) ESFOT-EPN 2019A
 
 * **Materia:** TRTR213 Sistemas Operativos 2019A
 * **Lugar:** TECSMD (Marcelo Dávila)

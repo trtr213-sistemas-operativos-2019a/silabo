@@ -56,11 +56,13 @@ Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https:
 
 ## Calificaciones
 
-* Prueba parcial              20%
-* Deberes y consultas          10%
-* Trabajo grupal               20%
-* Participación (Peerwise)    10%
-* Examen                              40%
+| Evaluación              | Valoración |
+| ----------------------  | ---------- |
+| Prueba parcial          | 20%        |
+| Deberes y consultas     | 20%        |
+| Trabajo grupal          | 20%        |
+| Participación (Peerwise)| 10%        |
+| Examen                  | 30%        |
 
 ## Bibliografía
 * Wolf, Gunnar (2015), Fundamentos de sistemas operativos – Primera edición. – México D.F. : Universidad. [Descargar](http://sistop.org/pdf/sistemas_operativos.pdf)

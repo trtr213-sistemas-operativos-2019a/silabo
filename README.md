@@ -35,6 +35,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 1 - Introducción (01/04/2019)
   * Introducción a la materia y explicación de la metodología de trabajo.
 
+### Clase 1 - Introducción a los SO
+  * [Teoria](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Ep2HYk6awatDhWYE18_xwukB66cqot1RRWU5wZJBEPcfbA?e=M0TyhH)
+
 
 
 ## Deberes/Proyectos

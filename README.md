@@ -10,23 +10,20 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ## Objetivos del Curso
 
-???
-* Describir las funciones y componentes necesarios de un sistema operativo.
-* Comparar al menos dos sistemas operativos y evaluar su aplicabilidad con respecto a una tarea determinada.
-* Explicar los beneficios de la automatización de las tareas de los sistemas operativos.
-* Comparar las estrategias de administración de memoria de al menos dos sistemas operativos populares.
-* Comparar los modelos de seguridad de al menos dos sistemas operativos populares.
-* Comparar los sistemas de archivos de al menos dos sistemas operativos populares.
-* Instalar sistemas operativos actuales.
-* Validar la correcta instalación de los sistemas operativos actuales.
-* Operar diferentes sistemas operativos con solvencia.
-* Instalar un sistema operativo con al menos dos maquinas virtuales.
-* Diagnosticar y resolver problemas en diferentes sistemas operativos.
-* Demostrar responsabilidad con las soluciones y manejo del software, respetando el ámbito académico.
+* Describir a los estudiantes las funcionalidades de un sistema operativo, instalación, operación y administración, y manejo del mismo por medio de interfaz gráfica como en línea de comandos.
+
+* **De conocimientos:**
+   * Analizar los principales tipos de sistemas operativos utilizados en la actualidad.
+   * Analizar los fundamentos, lineamientos y filosofía del Sistema Operativo GNU Linux.
+* **De destrezas:**
+   * Ejecutar procedimientos de instalación, operación y administración de sistemas operativos.
+   * Escribir secuencias de comandos para automatizar las tareas de los sistemas operativos.			
+*  **De valores y actitudes:**
+   * Mostrar ética profesional en la selección de sistemas operativos para ambientes computacionales específicos.					
 
 ## Prerequisitos
 
-* ???
+* TRTR143 PROGRAMACIÓN
 
 ## Calendario de clases
 
@@ -37,7 +34,6 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 1 - Introducción a los SO (02/04/2019)
   * [Teoria](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Ep2HYk6awatDhWYE18_xwukB66cqot1RRWU5wZJBEPcfbA?e=M0TyhH)
-
 
 
 ## Deberes/Proyectos

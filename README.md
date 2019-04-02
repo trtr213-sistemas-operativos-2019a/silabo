@@ -32,10 +32,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 **Todo el material utilizado en las clases se encontrará [aquí](https://github.com/trtr213-sistemas-operativos-2019a).**
 
-### Clase 1 - Introducción (01/04/2019)
+### Presentación (01/04/2019)
   * Introducción a la materia y explicación de la metodología de trabajo.
 
-### Clase 1 - Introducción a los SO
+### Clase 1 - Introducción a los SO (02/04/2019)
   * [Teoria](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Ep2HYk6awatDhWYE18_xwukB66cqot1RRWU5wZJBEPcfbA?e=M0TyhH)
 
 

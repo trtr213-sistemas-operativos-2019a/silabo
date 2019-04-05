@@ -35,7 +35,17 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 1 - Introducción a los SO (02/04/2019)
   * [Teoria](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Ep2HYk6awatDhWYE18_xwukB66cqot1RRWU5wZJBEPcfbA?e=M0TyhH)
 
+### Clase 2 - Proyecto final (ideas) (02/04/2019)
+  * Pensar en ideas para proyecto del primer bimestre. Los temas deben estar relacionados con los sitemas operativos, demostración de funcionalidades especiales, novedades de actualizaciones, comparaciones, nuevos sistemas operativos en el mercado, etc.
+  
+  * El proyecto debe consitir en:
+    * Parte teórica (40%): investigación sobre el tema y elaboración de informe de máximo 5 hojas.
+    * Parte práctica (60%): Presentación en clase sobre una demostración de lo investigado.
+    * Todos deben pensar en una idea que será discutida más adelante para definir el alcance.
+    * Se formarán grupos y cada grupo tendrá que elegir un tema.
+    * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
 
+    
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.

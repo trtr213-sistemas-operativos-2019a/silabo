@@ -50,6 +50,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 4 - Preguntas Windows 10
   * [Descargar preguntas](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPOB1zyFu1Ahub02DmLgpcBeQzrHkzrLRzuZ0JGJSGfFQ?e=jknlN1)
+  * Entregar vía Turnitin
 
 
     

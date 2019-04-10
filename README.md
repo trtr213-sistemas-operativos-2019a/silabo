@@ -32,25 +32,28 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Presentación (01/04/2019)
   * Introducción a la materia y explicación de la metodología de trabajo.
 
-### Clase 1 - Introducción a los SO (02/04/2019)
+### Clase 2 - Introducción a los SO (02/04/2019)
   * [Teoria](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Ep2HYk6awatDhWYE18_xwukB66cqot1RRWU5wZJBEPcfbA?e=M0TyhH)
 
-### Clase 2 - Taller de ideas para proyecto bimestre 1 (02/04/2019)
-  * Pensar en ideas para proyecto del primer bimestre. Los temas deben estar relacionados con los sitemas operativos, demostración de funcionalidades especiales, novedades de actualizaciones, comparaciones, nuevos sistemas operativos en el mercado, etc.
+  * **Taller de ideas para proyecto bimestre 1 (05/04/2019)**
+    * Pensar en ideas para proyecto del primer bimestre. Los temas deben estar relacionados con los sitemas operativos, demostración de funcionalidades especiales, novedades de actualizaciones, comparaciones, nuevos sistemas operativos en el mercado, etc.
     
-  * El proyecto debe consitir en:
-    * Parte teórica (40%): investigación sobre el tema y elaboración de informe de máximo 5 hojas.
-    * Parte práctica (60%): Presentación en clase sobre una demostración de lo investigado.
-    * Todos deben pensar en una idea que será discutida más adelante para definir el alcance.
-    * Se formarán grupos y cada grupo tendrá que elegir un tema.
-    * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
+    * El proyecto debe consitir en:
+     * Parte teórica (40%): investigación sobre el tema y elaboración de informe de máximo 5 hojas.
+     * Parte práctica (60%): Presentación en clase sobre una demostración de lo investigado.
+     * Todos deben pensar en una idea que será discutida más adelante para definir el alcance.
+     * Se formarán grupos y cada grupo tendrá que elegir un tema.
+     * La fecha de presentación se definirá más adelante (antes de la fecha del exámen del 1 bimestre).
     
-### Clase 3 - Introducción a los procesos
+### Clase 3 - Introducción a los procesos (08/04/2019)
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EbXvkIQDJSBPt7ciNWY09TkBVuI7U10-SqdRTVLH8GfCug?e=Fhn4gU)
   
-### Clase 4 - Preguntas Windows 10
+### Clase 4 - Preguntas Windows 10 (09/04/2019)
   * [Descargar preguntas](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPOB1zyFu1Ahub02DmLgpcBeQzrHkzrLRzuZ0JGJSGfFQ?e=jknlN1)
-  * Entregar vía Turnitin
+  * Entregar vía Turnitin. Revisar el correo de Turnitin que debe haber llegado a sus correos personales. Hacer clic en "Generar clave", ingresar su correo personal y sus **DOS APELLIDOS**. Subir el documento con las preguntas respondidas en formato PDF.
+  * Las preguntas deben incluir las definiciones o conceptos e incluir la lista de pasos y capturas de pantalla en caso de ser necesario.
+  * Por ahora será mayormente investigación de las preguntas, la siguiente clase se realizará el proceso de instalación de VirtualBox y Windows 10.
+  * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio en la Marcelo Dávila** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
 
 
     

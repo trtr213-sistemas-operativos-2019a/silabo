@@ -55,6 +55,17 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Por ahora será mayormente investigación de las preguntas, la siguiente clase se realizará el proceso de instalación de VirtualBox y Windows 10.
   * **Pedir el instalador de VirtualBox y el ISO de Windows 10 al auxiliar de laboratorio en la Marcelo Dávila** La siguiente clase **TODOS** deben tener ambos instaladores en la memoria flash para poder proceder con la clase.
 
+### Clase 5 - Instalación y configuración de Windows 10 (15/04/2019)
+  * Instalar VirtualBox
+  * Crear una máquina virtual
+  * Instalar W10
+  * Realizar informe del proceso con capturas de pantalla y subir en el Turnitin
+  
+### Clase 6 - Taller de preguntas de Windows 10
+  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
+  * Entregar en el Turnitin
+  
+
 
     
 ## Deberes/Proyectos

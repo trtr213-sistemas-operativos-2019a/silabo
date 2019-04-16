@@ -61,7 +61,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Instalar W10
   * Realizar informe del proceso con capturas de pantalla y subir en el Turnitin
   
-### Clase 6 - Taller de preguntas de Windows 10
+### Clase 6 - Taller de preguntas de Windows 10 (16/04/2019)
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EYNmdWUcFMpJlAmg7BdHtJkBKyOM0kKegTSVBx7-sH89Hg?e=t5opIq)
   * Entregar en el Turnitin
   

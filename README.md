@@ -67,8 +67,27 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 7 - Estados de procesos (22/04/2019)
   * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
+  
+### Clase 8 - Sistemas Operativos clásicos
+  * Investigar sobre los siguientes sistemas operativos:
+    * Windows 1.01 [Emulador](https://classicreload.com/Windows-1-01.html)
+    * PC DOS 5 [Emulador](http://jamesfriend.com.au/pce-js/ibmpc-games/)
+    * Windows 3.1 [Emulador](https://classicreload.com/win3x-windows-31.html)
+    * Windows 95: [Emulador](https://win95.ajf.me/win95.html)
+    * Macintosh Clásico versión 7.0.1 [Emulador](https://jamesfriend.com.au/pce-js/)
+    * Macintosh Plus [Emulador](https://jamesfriend.com.au/pce-js/pce-js-apps/)
+    * Mac OS X 10.7 [Emulador](http://www.alessioatzeni.com/mac-osx-lion-css3/)
+    * AmigaOS 1.2 [Emulador](http://pnacl-amiga-emulator.appspot.com/)
+  * Entregar informe con la siguiente información de cada SO:
+    * Fabricante
+    * Año de lanzamiento
+    * Tipo de núcleo
+    * Versión anterior: mejoras de esta versión
+    * Versión siguiente: mejoras de la nueva versión con respecto a esta
+    * Requerimientos mínimos
+    * Versión actual del sistema operativo
+  
 
-    
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.

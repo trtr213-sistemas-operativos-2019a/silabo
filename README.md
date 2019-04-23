@@ -86,6 +86,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * Versión siguiente: mejoras de la nueva versión con respecto a esta
     * Requerimientos mínimos
     * Versión actual del sistema operativo
+  * Entregar via Turnitin
   
 
 ## Deberes/Proyectos

@@ -88,6 +88,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * Versión actual del sistema operativo
   * Entregar via Turnitin
   
+### Clase 9 - Hilos
+  * [Teoría](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eftkg7iK8k1NmZE12ctHQroBmE616wxEX8bNYN9Omwarhw?e=0PV7bd)
+  
+### Clase 10 - Comandos en Windows
+  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
 
 ## Deberes/Proyectos
 

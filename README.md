@@ -107,6 +107,9 @@ Todas las tareas serán listadas en el [Calendario del Curso](#calendario).
 
 Todos los deberes deberán ser entregados **únicamente** vía [Turnitin](https://www.turnitin.com) en los deberes correspondientes y en las fechas indicadas.
 
+### FORMATO INFORME PROYECTO
+  * [Descargar](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/EnqVvSuYQpJOvajbLTrHjDoBlm9AR0ZEpGA0MUeBIp4eVA?e=zdfHK0)
+
 ## Peerwise
 
 * Ingresar a [PeerWise](https://peerwise.cs.auckland.ac.nz)

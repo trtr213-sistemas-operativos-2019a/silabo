@@ -93,6 +93,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 10 - Comandos en Windows
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EcIsn3RQ8CJNgZpIm4sXtnAB-l242CC2Ydb6F_jS8koJgw?e=iegofF)
+  
+### Clase 11 - Prueba
+
+### Clase 12 - Instalación Ubuntu
+  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ1O0Vrbq99MgvYWtn2w49EBKw5ka8F1kgMGvow1qmYNnA?e=ba3gPv)
 
 ## Deberes/Proyectos
 

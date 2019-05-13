@@ -98,6 +98,14 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 12 - Instalación Ubuntu
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ1O0Vrbq99MgvYWtn2w49EBKw5ka8F1kgMGvow1qmYNnA?e=ba3gPv)
+  
+### Clase 13 - Concurrencia de procesos
+
+
+### Clase 14 - Introducción a comandos Linux
+  * [Descargar taller]()
+  * [Comandos interesantes en la terminal](https://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/)
+  * [Comandos que no se deben correr](https://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) o se deben correr con precaución 
 
 ## Deberes/Proyectos
 

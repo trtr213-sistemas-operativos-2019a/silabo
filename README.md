@@ -103,7 +103,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 
 ### Clase 14 - Introducción a comandos Linux
-  * [Descargar taller]()
+  * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Ea_eNicVqUJCsm-XiMF4BHUBWS5doawuJD10DCmTJC9RoA?e=POadGn)
   * [Comandos interesantes en la terminal](https://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/)
   * [Comandos que no se deben correr](https://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) o se deben correr con precaución 
 

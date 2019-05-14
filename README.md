@@ -107,6 +107,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Comandos interesantes en la terminal](https://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/)
   * [Comandos que no se deben correr](https://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) o se deben correr con precaución 
 
+### Clase 15 - 
+  * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Ea_eNicVqUJCsm-XiMF4BHUBWS5doawuJD10DCmTJC9RoA?e=POadGn)
+
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.

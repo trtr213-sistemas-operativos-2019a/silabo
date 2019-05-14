@@ -108,7 +108,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Comandos que no se deben correr](https://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) o se deben correr con precaución 
 
 ### Clase 15 - 
-  * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Ea_eNicVqUJCsm-XiMF4BHUBWS5doawuJD10DCmTJC9RoA?e=POadGn)
+  * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaF14wKBHOBBtFpiUKfgxe8BxKCY0o96y_ORQX98HRiUJQ?e=aBG1Nf)
 
 ## Deberes/Proyectos
 

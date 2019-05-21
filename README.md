@@ -100,15 +100,18 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ1O0Vrbq99MgvYWtn2w49EBKw5ka8F1kgMGvow1qmYNnA?e=ba3gPv)
   
 ### Clase 13 - Concurrencia de procesos
-
+  * [Descargar](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EesM06NOVbJEjMkDc2v_LnYB1muG92S1_QA2n3hv1CvBWQ?e=aVq5iA)
 
 ### Clase 14 - Introducción a comandos Linux
   * [Descargar taller](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Ea_eNicVqUJCsm-XiMF4BHUBWS5doawuJD10DCmTJC9RoA?e=POadGn)
   * [Comandos interesantes en la terminal](https://www.makeuseof.com/tag/x-quirky-linux-commands-need-know-will-love/)
   * [Comandos que no se deben correr](https://www.makeuseof.com/tag/9-lethal-linux-commands-never-run/) o se deben correr con precaución 
 
-### Clase 15 - 
-  * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaF14wKBHOBBtFpiUKfgxe8BxKCY0o96y_ORQX98HRiUJQ?e=aBG1Nf) Este documento se irá trabajando en diferentes clases a medida que se vaya avanzando en los temas de la terminal de Linux.
+### Clase 15 - Interbloqueos
+  * [Descargar](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EesM06NOVbJEjMkDc2v_LnYB1muG92S1_QA2n3hv1CvBWQ?e=aVq5iA)
+  
+### Clase 16 - Ejercicios comandos Linux
+  * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaF14wKBHOBBtFpiUKfgxe8BxKCY0o96y_ORQX98HRiUJQ?e=aBG1Nf) Este documento se irá trabajando en diferentes clases a medida que se vaya avanzando en los temas de la terminal de Linux.  
 
 ## Deberes/Proyectos
 

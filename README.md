@@ -112,6 +112,12 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   
 ### Clase 16 - Ejercicios comandos Linux
   * [Guía práctica de Linux](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaF14wKBHOBBtFpiUKfgxe8BxKCY0o96y_ORQX98HRiUJQ?e=aBG1Nf) Este documento se irá trabajando en diferentes clases a medida que se vaya avanzando en los temas de la terminal de Linux.  
+
+### Clase 17 - Examen
+
+### Clase 18 - Presentaciones
+
+### Clase 19 - Presentaciones
   * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
     * ¿Qué es?
     * ¿Desde cuando está disponible?

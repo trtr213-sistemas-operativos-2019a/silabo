@@ -118,6 +118,8 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Clase 18 - Presentaciones
 
 ### Clase 19 - Presentaciones
+
+### Clase 20 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
   * **SUBSISTEMA LINUX DE WINDOWS 10 (WSL)**
     * ¿Qué es?
     * ¿Desde cuando está disponible?

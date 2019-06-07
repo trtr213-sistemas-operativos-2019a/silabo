@@ -129,7 +129,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Qué distribuciones de Linux puedo instalar?
     * Pasos para activar esta característica
 
-### Clase 21 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
+### Clase 21 - Planificador de Procesos
   * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ET7HTNQFeP5KsBsFfwsKxZkBdSIgRV-63Q8OeyOHo24JZw?e=LROmQs)
   * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPCVq17Y9ZPvmRQC9oHTHkBPKYSjafL-51YIVdsJ22sHA?e=NgEG25)
   * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase

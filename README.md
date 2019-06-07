@@ -129,6 +129,21 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Qué distribuciones de Linux puedo instalar?
     * Pasos para activar esta característica
 
+### Clase 21 - SUBSISTEMA LINUX DE WINDOWS 10 (WSL)
+  * [Planificador de procesos](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ET7HTNQFeP5KsBsFfwsKxZkBdSIgRV-63Q8OeyOHo24JZw?e=LROmQs)
+  * [Práctica Redirección de E/S y Tuberias](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EUPCVq17Y9ZPvmRQC9oHTHkBPKYSjafL-51YIVdsJ22sHA?e=NgEG25)
+  * Deber - Sistemas Operativos de 32 bits y 64 bits - Subir al Turnitin - Presentación siguiente clase
+    * ¿Qué determina si una computadora es de 32 bits o de 64 bits?
+    * ¿Qué cantidad de RAM soporta un sistma de 32 bits y uno de 64 bits?
+    * ¿En qué se diferencia un Windows de 32 bits y uno de 64 bits (Program Files)?
+    * ¿Diferencia entre programas de 32 bits y 64 bits - compatibilidad de programas?
+    * ¿Cómo determinar si la versión de Windows es de 32 bits o de 64 bits?
+    * ¿Cómo se puede pasar de un sistema de 32 bits a uno de 64 bits?
+    * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
+    * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
+    
+    
+
 ## Deberes/Proyectos
 
 Cada semana se irá actualizando este sílabo para listar los deberes de cada semana, ejercicios en el aula y los proyectos.

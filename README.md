@@ -146,8 +146,8 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
   * Práctica. Redirección de E/S y Tuberias.
   
 ### Clase 23 - Gestión de memoria
-  * [Gestión de memoria]()
-  * [Práctica]. (Comandos para gestión de procesos en Linux.)
+  * [Gestión de memoria](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/Eb4L5C6DAftCp7XOso8byYwBBq3OnCpgfJ8KTLmayuvXzA?e=gMPpbv)
+  * Práctica. [Comandos para gestión de procesos en Linux.](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQ9sELw574RLnj426nyRy1wBElwepiYL-JH2xqXtECrq9A?e=L1xovg)
 
 ### Clase 24 - Práctica Comandos Linux.
   * Trabajar en archivos de 100 comandos Linux.

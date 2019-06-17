@@ -141,6 +141,17 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Cómo se puede pasar de un sistema de 32 bits a uno de 64 bits?
     * ¿Los sistemas operativos pueden limitar la cantidad de RAM que se puede instalar?
     * ¿Cuánta RAM soporta Windows en las versiones Home, Pro, Education, etc?
+
+### Clase 22 - Redirección de E/S y Tuberias
+  * Práctica. Redirección de E/S y Tuberias.
+  
+### Clase 23 - Gestión de memoria
+  * [Gestión de memoria]()
+  * [Práctica]. (Comandos para gestión de procesos en Linux.)
+
+### Clase 24 - Práctica Comandos Linux.
+  * Trabajar en archivos de 100 comandos Linux.
+  * Actualización Windows 10 (1903)
     
     
 

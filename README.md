@@ -151,7 +151,22 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 
 ### Clase 24 - Práctica Comandos Linux.
   * Trabajar en archivos de 100 comandos Linux.
-  * Actualización Windows 10 (1903)
+  * **Consulta. Actualización Windows 10 (1903)**
+    * ¿Qué es el Windows Insider, como suscribirse, que ventajas tiene?
+    * ¿Cómo descargo la actualización 1903 de W10?
+    * ¿Como activar el Light Theme de W10
+    * ¿Qué el almacenamiento reservado que maneja W10?
+    * ¿Como se activa el Windows Sandbox y para que sirve?
+    * ¿Como funciona las actualaciones de W10 que novedades tienen, como puede retrasarlas?
+    * ¿En que consiste el cambio de búsqueda separada con Cortana?
+    * ¿Como activar la búsqueda mejorada, en que consiste, ventajas?
+    * ¿Como puedo personalizar el cursor?
+    * ¿Cambios en el Administrador de tareas?
+    * ¿Cambios o mejoras en Windows Emoji?
+    * ¿Como puedo sincronizar el reloj de la computador con los servidores de Microsoft?
+    * ¿Cambios en la herramienta Recortes (Snapshot), acccesos con el teclado?
+    * ¿Cuál es el nuevo acceso a las configuraciones de IP?
+    * ¿Mejoras en el explorador de archivos?
     
     
 

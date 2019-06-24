@@ -168,6 +168,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * ¿Cuál es el nuevo acceso a las configuraciones de IP?
     * ¿Mejoras en el explorador de archivos?
     
+ ### Clase 25 - Gestión de Usuarios
+   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
+    
     
 
 ## Deberes/Proyectos

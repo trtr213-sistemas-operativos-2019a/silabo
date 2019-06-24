@@ -172,11 +172,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
   * **Temas de proyectos finales**
    1. Instalación de doble booteo con Windows y Linux desde un USB
-   1. Herramientas para partición de discos
-   1. Herramientas para clonación de discos
-   1. Herramientas de control y acceso remoto
-   1. Sistema de respaldo y restauración de Windows 10
-   1. Soluciones a problemas comunes en Windows
+   1. Herramientas para partición de discos en Windows y Linux
+   1. Herramientas para clonación de discos en Windows y Linux
+   1. Herramientas de control y acceso remoto en Windows y Linux
+   1. Sistema de respaldo y restauración en Windows y Linux
+   1. Soluciones a problemas comunes en Windows y Linux
    1. Debian vs RedHat y Ubuntu vs Fedora
     
  ### Clase 26 - Gestion fr permisos   

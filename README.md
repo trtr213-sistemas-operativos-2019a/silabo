@@ -170,8 +170,16 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     
  ### Clase 25 - Gestión de Usuarios
    * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EXJZ_91EknVCmtmmJZRk8OYB12t2jV1jxeIlftlqaJK6Nw?e=dYjShA)
+   * **Temas de proyectos finales**
+     1. Instalación de doble booteo con Windows y Linux desde un USB
+     2. Herramientas para partición de discos
+     3. Herramientas para clonación de discos
+     4. Herramientas de control y acceso remoto
+     5. Sistema de respaldo y restauración de Windows 10
+     6. Soluciones a problemas comunes en Windows
+     7. Debian vs RedHat y Ubuntu vs Fedora
     
-    
+ ### Clase 26 - Gestion fr permisos   
 
 ## Deberes/Proyectos
 

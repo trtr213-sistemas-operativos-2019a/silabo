@@ -179,7 +179,8 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    1. Soluciones a problemas comunes en Windows y Linux
    1. Debian vs RedHat y Ubuntu vs Fedora
     
- ### Clase 26 - Gestion fr permisos   
+ ### Clase 26 - Gestion de permisos   
+   * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQf6xspisTtFj4t4u2MCx5YBBgsDiE5erje2ia5Hlq5REw?e=ZztB1D)
 
 ## Deberes/Proyectos
 

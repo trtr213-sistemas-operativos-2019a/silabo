@@ -182,33 +182,33 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
  ### Clase 26 - Gestion de permisos   
    * [Práctica](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQf6xspisTtFj4t4u2MCx5YBBgsDiE5erje2ia5Hlq5REw?e=ZztB1D)
    * Grupo 1 - 3. Herramientas para clonación de discos en Windows y Linux
-      * CANTUÑA OÑA RAUL IVAN	
-	    * BURBANO LASSO JOHAN SEBASTIAN	
-	    * ESCOBAR LEON ANDRES ALEJANDRO	
-	    * SALAZAR ROBAYO BYRON EDUARDO	
+      * CANTUÑA OÑA RAUL IVAN
+      * BURBANO LASSO JOHAN SEBASTIAN
+      * ESCOBAR LEON ANDRES ALEJANDRO
+      * SALAZAR ROBAYO BYRON EDUARDO	
    * Grupo 2 - 6. Soluciones a problemas comunes en Windows y Linux
-     * PITACUAR SORIA PABLO EDUARDO	
-	   * TIXI ALULEMA LUIS RENE	
-	   * MALDONADO SIMBAÑA NIPSON FREDDY	
+     * PITACUAR SORIA PABLO EDUARDO
+     * TIXI ALULEMA LUIS RENE
+     * MALDONADO SIMBAÑA NIPSON FREDDY	
    * Grupo 3 - 5. Sistema de respaldo y restauración en Windows y Linux
-     * INCERRI PINTO JUNIEL SEBASTIAN	
-	   * LUDEÑA ROSERO LIZBETH MISHELL	
-	   * SIMBA MERA JHON SEBASTIAN
+     * INCERRI PINTO JUNIEL SEBASTIAN
+     * LUDEÑA ROSERO LIZBETH MISHELL
+     * SIMBA MERA JHON SEBASTIAN
    * Grupo 4 - 2. Herramientas para partición de discos en Windows y Linux
-     * VARGAS COFRE CARLOS EDUARDO	
-	   * SOLEDISPA PILLAJO VICTOR XAVIER	
-	   * ZURITA MALDONADO ISRAEL ALEXANDER	
+     * VARGAS COFRE CARLOS EDUARDO
+     * SOLEDISPA PILLAJO VICTOR XAVIER
+     * ZURITA MALDONADO ISRAEL ALEXANDER	
   * Grupo 5 - 7. Debian vs RedHat y Ubuntu vs Fedora
     * QUINTANILLA ARMIJO JOEL ALEXIS
-    * PILATUÑA COLLAGUAZO MAURICIO DAVID	
-	  * COLLAGUAZO VASQUEZ ERICK ARIEL	
-  * Grupo 6	- 4. Herramientas de control y acceso remoto en Windows y Linux
+    * PILATUÑA COLLAGUAZO MAURICIO DAVID
+    * COLLAGUAZO VASQUEZ ERICK ARIEL	
+  * Grupo 6 - 4. Herramientas de control y acceso remoto en Windows y Linux
     * VELASTEGUI DUEÑAS CARLOS ANDRES
-	  * SANCHEZ LEON MICHAEL ALEJANDRO
-	* Grupo 7	- 1. Instalación de doble booteo con Windows y Linux desde un USB
+    * SANCHEZ LEON MICHAEL ALEJANDRO
+  * Grupo 7 - 1. Instalación de doble booteo con Windows y Linux desde un USB
     * PROAÑO GUERRERO CESAR ANDRES
-	  * CALDERON FERNANDEZ ARIEL ESTEBAN	
-	  * RIVERA CAMPOVERDE JESSENIA PATRICIA	
+    * CALDERON FERNANDEZ ARIEL ESTEBAN
+    * RIVERA CAMPOVERDE JESSENIA PATRICIA	
 
 ## Deberes/Proyectos
 

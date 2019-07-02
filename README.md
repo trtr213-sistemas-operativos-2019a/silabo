@@ -212,8 +212,8 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     
  ### Clase 27 - Prueba
 
- ### Clase 28 - Prueba con terminal
-   * [Prueba](https://forms.gle/M4xdkqh3qqZKGodJ9)
+ ### Clase 28 - 
+  
 
 ## Deberes/Proyectos
 

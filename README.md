@@ -210,7 +210,10 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
     * CALDERON FERNANDEZ ARIEL ESTEBAN
     * RIVERA CAMPOVERDE JESSENIA PATRICIA
     
-## Clase 27 - Prueba
+ ### Clase 27 - Prueba
+
+ ### Clase 28 - Prueba con terminal
+   * [Prueba](https://forms.gle/M4xdkqh3qqZKGodJ9)
 
 ## Deberes/Proyectos
 

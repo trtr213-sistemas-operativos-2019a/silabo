@@ -217,6 +217,7 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
  ### Clase 29 - Ubuntu Server
    * [Configuración inicial Ubuntu server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQXI2SERHXJDmg5_cosbXVcBIyChDQo41YT3jzTLrVrZyA?e=KAsND9)
    * [Instalar LAMP](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ERQ7KfbyVDdKl5XTuGCOeCwBxqYGcBhBQcQDZah3IsMZhg?e=Qbv7bq)
+   * [Guía Bash](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EViCK2IyKaJCr_LtNtVynOYBSWHdVLs25BP4F7nTESC7xQ?e=teM0rD)
   
 
 ## Deberes/Proyectos

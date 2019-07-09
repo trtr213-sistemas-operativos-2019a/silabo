@@ -218,6 +218,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
    * [Configuración inicial Ubuntu server](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQXI2SERHXJDmg5_cosbXVcBIyChDQo41YT3jzTLrVrZyA?e=KAsND9)
    * [Instalar LAMP](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/ERQ7KfbyVDdKl5XTuGCOeCwBxqYGcBhBQcQDZah3IsMZhg?e=Qbv7bq)
    * [Guía Bash](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EViCK2IyKaJCr_LtNtVynOYBSWHdVLs25BP4F7nTESC7xQ?e=teM0rD)
+   
+ ### Clase 30 - 
+   * [Guía de comando SCP](http://www.hypexr.org/linux_scp_help.php)
   
 
 ## Deberes/Proyectos

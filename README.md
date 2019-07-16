@@ -222,6 +222,11 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
  ### Clase 30 - 
    * [Guía de comando SCP](http://www.hypexr.org/linux_scp_help.php)
    * **Entrega de 100 comandos Linux martes 16 julio**
+   
+   
+## Respuesta a pregunta 71 de los 100 comandos Linux
+  * `find  . -type f -user pedro -iregex ".*[0-9].*" -exec cp {} DIRECTORIO_DESTINO \;`
+
   
 
 ## Deberes/Proyectos

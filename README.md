@@ -231,6 +231,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Ejercicios de Repaso
   [Descargar](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EdYLmQJZ5UdLovtnIgfikw8Bfo_m58tdWUDMiy3G34JpWQ?e=hjAZ9f)
 
+
+### Examen
+  [Ver examen](https://forms.gle/cpJXEyVaVLRySfZUA)
   
 
 ## Deberes/Proyectos

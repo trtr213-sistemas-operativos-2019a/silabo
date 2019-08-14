@@ -235,6 +235,9 @@ También pueden enviar un [email](mailto:edwin.salvador@epn.edu.ec) para coordin
 ### Examen
   [Ver examen](https://forms.gle/cpJXEyVaVLRySfZUA)
   
+## EXAMEN FINAL
+  [Ver examen final](https://forms.gle/8NJrfwd2emkRwdmMA)
+  
 
 ## Deberes/Proyectos
 
